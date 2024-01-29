@@ -1,7 +1,7 @@
-# Week 19
+*!Week 19
 
 
-## Bit Manipulation
+!# Bit Manipulation
 
 #### [Tutorial]()
 
@@ -11,3 +11,4 @@
 
 #### Full Question Set
 - [Geeksforgeeks](https://www.geeksforgeeks.org/bitwise-algorithms/)
+ 
